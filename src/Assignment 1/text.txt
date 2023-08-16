@@ -1,2 +1,3 @@
 Question 1
 1)created a text file and made changes in the text file
+2)Modifing the file to use Git pull in local
